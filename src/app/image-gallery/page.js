@@ -11,7 +11,7 @@ async function getData() {
 const page = async () => {
 
     const data = await getData()
-    console.log(data);
+    // console.log(data);
 
     // let pic = await fetch('http://localhost:3000/api')
     // pic = await pic.json()
