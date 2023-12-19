@@ -1,7 +1,15 @@
 import { NextResponse } from "next/server";
+import jsonData from '../../jsonData/blog1.json'
 
+export async function GET(req, res) {
 
-export async function GET(request) {
+    // console.log(jsonData);
 
-    return NextResponse.json('hello')
+    // if (req.method === 'GET') {
+    //     NextResponse.json(jsonData);
+    // } else {
+    //     NextResponse.json({ message: 'Method Not Allowed' });
+    // }
+
+    return NextResponse.json(jsonData)
 }
