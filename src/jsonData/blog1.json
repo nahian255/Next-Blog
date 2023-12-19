@@ -1,14 +1,8 @@
 [
     {
         "id": 1,
-        "name": "John Doe"
-    },
-    {
-        "id": 2,
-        "name": "Jane Smith"
-    },
-    {
-        "id": 3,
-        "name": "Bob Johnson"
+        "name": "How To Learn JavaScript in 2024: A Comprehensive Guide",
+        "Containt": "JavaScript, the language that powers the interactive and dynamic aspects of the web, continues to be a crucial skill for developers in 2024. Whether you're a beginner taking your first steps into the world of programming or an experienced developer looking to expand your skill set, this guide will provide you with a roadmap to master JavaScript effectively. In the fast-evolving landscape of web development, staying updated on the latest trends, tools, and best practices is key. As we enter 2024, JavaScript remains a fundamental language, and its importance is only expected to grow. In this guide, we'll explore a structured approach to learning JavaScript, covering resources, projects, and strategies to help you become a proficient JavaScript developer.",
+        "Conclusion": "Embarking on the journey to learn JavaScript in 2024 is an exciting endeavor. By following this guide and staying committed to continuous learning and practice, you'll be well-equipped to tackle the challenges and opportunities that JavaScript development presents. Let's dive in and make 2024 the year you master JavaScript!"
     }
 ]
