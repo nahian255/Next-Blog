@@ -1,6 +1,8 @@
 import React from 'react';
-import jdata from '@/jsonData/blog1.json'
-const blog1 = () => {
+import jdata from '@/jsonData/blog3.json'
+
+
+const blog3 = () => {
     return (
         <div className="min-h-screen  p-12">
             {
@@ -11,13 +13,13 @@ const blog1 = () => {
                         <div>
                             <p className='text-2xl text-blue-700 '> Table of Contents -</p>
                             <ul className='text-lg'>
-                                <li> 1.Understanding the Basics</li>
-                                <li> 2.Mastering Control Flow</li>
-                                <li>3.Working with the DOM</li>
-                                <li>4.Modern JavaScript Features</li>
-                                <li>5.Frameworks and Libraries</li>
-                                <li>6.Projects for Practical Experience</li>
-                                <li>7.Resources for Continuous Learning</li>
+                                <li>1.Understand the Basics</li>
+                                <li>2. Hands-On Practice with Code</li>
+                                <li>3.Explore React Hooks</li>
+                                <li>4.Routing with React Router</li>
+                                <li>5.State Management with Redux</li>
+                                <li>6.Testing React Applications</li>
+                                <li>7.Stay Updated with React Ecosystem</li>
                                 <li>8.Tips for Success</li>
                             </ul>
                         </div>
@@ -29,4 +31,4 @@ const blog1 = () => {
     );
 };
 
-export default blog1;
+export default blog3;

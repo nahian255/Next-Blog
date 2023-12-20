@@ -1,5 +1,8 @@
 [
     {
-        "name": "John Doe"
+        "id": 2,
+        "name": "How To Learn React in 2024: A Comprehensive Guide",
+        "Containt": " Before diving into complex concepts, make sure you have a solid understanding of the fundamentals. Learn about JSX, components, state, and props. Familiarize yourself with the virtual DOM and how React efficiently updates the UI. Before diving into complex concepts, make sure you have a solid understanding of the fundamentals. Learn about JSX, components, state, and props. Familiarize yourself with the virtual DOM and how React efficiently updates the UI. The best way to learn React is by writing code. Set up a React project using Create React App or your preferred build tool. Start building small components and gradually work your way up to more complex applications. Use online code sandboxes to experiment without the need for a local setup.",
+        "Conclusion": "Learning React in 2024 involves a combination of hands-on practice, exploration of new features, and staying connected with the vibrant React community. As you embark on your React journey, enjoy the process of building interactive and dynamic user interfaces. Happy coding! 🚀✨"
     }
 ]
