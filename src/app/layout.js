@@ -13,12 +13,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body className={inter.className}>
-        <nav>
-          <div className='text-2xl font-bold text-center flex justify-evenly p-4'>
-            <Link href={'/'}>Home</Link>
-            <Link href={'/about'}>About</Link>
+        <nav className='bg-slate-300  justify-items-center '>
+          <div className=' text-2xl font-bold pl-4 flex justify-center p-4'>
+            <Link href={'/'} className='px-10'>Home</Link>
             <Link href={'/blog'}>Blog</Link>
-            <Link href={'/contact'}>Contact</Link>
           </div>
         </nav>
         {children}

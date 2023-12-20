@@ -19,7 +19,7 @@ const page = () => {
                 </div>
                 <div className="py-4">
                     <Link href={'/blogpost/blog3'}>
-                        <h1 className='text-xl font-bold'>How To Learn Next js in 2024: A Comprehensive Guide</h1>
+                        <h1 className='text-2xl font-bold'>How To Learn Next js in 2024: A Comprehensive Guide</h1>
                     </Link>
                     <h5> JIn the ever-evolving landscape of web development, staying up-to-date with the latest technologies is crucial. Next.js has emerged as a powerful and popular framework for building modern, server-rendered React applications. If you're eager to master Next.js in 2024, you're in the right place. This guide will walk you through the essential steps to become proficient in Next.js.</h5>
                 </div>
